@@ -3,7 +3,7 @@
 * [xray](https://github.com/XTLS/Xray-core)+caddy同时支持vmess vless trojan shadowsocks socks等协议 ！！ 
 * 支持存储自定义文件,目录及账号密码均为AUUID,客户端务必启用TLS！！
   
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/lyzml2021/happy/BigBigX)  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/happy/BigBigX)  
   
 ### 服务端ly
 点击上面紫色`Deploy to Heroku`，会跳转到heroku app创建页面，填上app的名字、选择country、按需修改部分参数和AUUID后点击下面deploy即可开始部署  
